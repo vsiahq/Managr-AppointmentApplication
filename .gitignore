@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Miscellaneous
 *.class
 *.log
@@ -43,3 +44,24 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Project exclude paths
+/app/
+/gradle/
+>>>>>>> 5426daba49b2b5bf104f6e5ffde08c16c7065d28
